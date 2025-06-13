@@ -1,4 +1,4 @@
-package src.dsa;
+package src.com.dsa;
 
 public class Main {
 }
