@@ -1,3 +1,5 @@
+package src.dsa;
+
 public class Recursion {
     public static void main(String[] args) {
         int res = factorial(5);
